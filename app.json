@@ -7,27 +7,27 @@
   "env":{
     "APIKEY":{
       "description": "Youtube API V3 KEY",
-      "value": ""
+      "value": "AIzaSyBbLFBhwPDng3qllnvtIRy2fD77NPQb2R8"
     },
     "GJ_CODE":{
       "description": "地区代码，HK,SG,US  ISO_3166-1",
-      "value": "US"
+      "value": "TW"
     },
     "SITE_NAME":{
       "description": "站点名字",
-      "value": "Y2"
+      "value": "you2php - 免翻墙看youtube"
     },
     "TITLENAME":{
       "description": "TITLENAME",
-      "value": "Y2"
+      "value": "you2php - By:周津宇"
     },
     "EN2DEKEY":{
       "description": "加/解密密钥，随机字符串即可",
-      "value": "ZgN2tj1ETs"
+      "value": "BZsymGEtsC"
     },
     "EMAIL":{
       "description": "邮箱",
-      "value": ""
+      "value": "love@annna.cn"
     }
   }
 }
