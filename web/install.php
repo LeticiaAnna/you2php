@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="https://wangxiaoqing123.coding.me/hellocss.coding.me/pintuer.css">
-    <script src="//apps.bdimg.com/libs/jquery/1.10.1/jquery.js"></script>
+    <script src="https://apps.bdimg.com/libs/jquery/1.10.1/jquery.js"></script>
     <script src="https://wangxiaoqing123.coding.me/hellocss.coding.me/pintuer.js"></script>
     <script src="https://wangxiaoqing123.coding.me/hellocss.coding.me/respond.js"></script>
     <style>
@@ -236,7 +236,7 @@ default:
                     <p  class="text-large padding-big-bottom text-center">You2PHP使用许可协议</p>
 <p class="height-small">感谢您选择You2PHP。这是一个新颖的Youtube视频流量转发程序。</p>
 <p class="height-small">本软件为开源软件，遵循&nbsp;<span style="text-decoration: underline; color: #3366ff;"><a style="color: #3366ff; text-decoration: underline;" href="http://www.gnu.org/licenses/gpl.html">GPL</a></span>&nbsp;(GNU General Public License)开源协议</p>
-<p class="height-small">本软件版权归作者Anonymous所有，任何个人或组织，可以不经过原作者许可的情况下，对本程序源代码进行改动以及二次开发，但禁止将修改后的程序进行商业盈利，必须开源。</p>
+<p class="height-small">本软件版权归作者Annna所有，任何个人或组织，可以不经过原作者许可的情况下，对本程序源代码进行改动以及二次开发，但禁止将修改后的程序进行商业盈利，必须开源。</p>
 <p class="height-small">无论您的用途如何，均需仔细阅读本协议，在理解、同意、并遵守本协议的全部条款后，方可开始使用本软件。</p>
 <h2>使用者必看</h2><hr>
 <p>使用者必须要做到以下这几点才能继续安装You2PHP！！</p>
