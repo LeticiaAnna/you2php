@@ -25,7 +25,7 @@
            echo '请从本地址下载最新版：<a href="'.$up['links'].'" target="_blank">'.$up['links'].'</a></br>';
            echo '更新内容：'.$up['des'];
         } else{
-          echo '本程序已经是最新版，无需升级！'; 
+          echo '本程序已经是最新版，无需升级！如需合作，请联系站长，官网：www.annna.cn，QQ1114352921'; 
         }
         ?>    
 </body>
