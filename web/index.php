@@ -4,7 +4,7 @@ if(!file_exists('./config.php')){
       exit();   
 }
 include("./lib.php");
-$headtitle='首页'.'-'.SITE_NAME;
+$headtitle='hellow'.'-'.SITE_NAME;
 include("./header.php");
 if(isset($_GET['v'])){
     if(stripos($_GET['v'],'youtu.be')!==false || stripos($_GET['v'],'watch?v=')!==false ){
