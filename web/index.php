@@ -4,7 +4,7 @@ if(!file_exists('./config.php')){
       exit();   
 }
 include("./lib.php");
-$headtitle='hellow'.'-'.SITE_NAME;
+$headtitle='黑科技 '.'-'.SITE_NAME;
 include("./header.php");
 if(isset($_GET['v'])){
     if(stripos($_GET['v'],'youtu.be')!==false || stripos($_GET['v'],'watch?v=')!==false ){
